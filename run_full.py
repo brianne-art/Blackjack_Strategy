@@ -52,9 +52,9 @@ if __name__ == "__main__":
     print(f"Reference fitness: {ref_fitness:.4f}\n")
 
     # Run GA
-    print("Running GA (150 generations, 100 individuals, 5000 hands)...")
+    print("Running GA (300 generations, 100 individuals, 5000 hands)...")
     population, history = run_ga(
-        generations=150,
+        generations=300,
         pop_size=100,
         n_hands=5000,
         verbose=True,

@@ -1,2 +1,0 @@
-# Blackjack_Strategy
-

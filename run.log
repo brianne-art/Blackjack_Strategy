@@ -1,0 +1,58 @@
+Calibrating basic-strategy reference fitness...
+Reference fitness: 0.4780
+
+Running GA (50 generations, 100 individuals, 5000 hands)...
+Gen   0 | max=0.3871  mean=0.3410  median=0.3419  min=0.2878
+Gen   1 | max=0.4014  mean=0.3446  median=0.3473  min=0.3034
+Gen   2 | max=0.3970  mean=0.3452  median=0.3453  min=0.3032
+Gen   3 | max=0.4028  mean=0.3435  median=0.3429  min=0.2958
+Gen   4 | max=0.4082  mean=0.3477  median=0.3485  min=0.2988
+Gen   5 | max=0.4148  mean=0.3489  median=0.3447  min=0.3021
+Gen   6 | max=0.4097  mean=0.3476  median=0.3482  min=0.2951
+Gen   7 | max=0.4162  mean=0.3490  median=0.3490  min=0.2850
+Gen   8 | max=0.4124  mean=0.3468  median=0.3431  min=0.2950
+Gen   9 | max=0.4148  mean=0.3521  median=0.3493  min=0.2902
+Gen  10 | max=0.4179  mean=0.3585  median=0.3603  min=0.2910
+Gen  11 | max=0.4073  mean=0.3625  median=0.3640  min=0.3000
+Gen  12 | max=0.4078  mean=0.3655  median=0.3665  min=0.2906
+Gen  13 | max=0.4087  mean=0.3696  median=0.3692  min=0.2960
+Gen  14 | max=0.4175  mean=0.3726  median=0.3740  min=0.2911
+Gen  15 | max=0.4102  mean=0.3752  median=0.3766  min=0.2993
+Gen  16 | max=0.4121  mean=0.3757  median=0.3789  min=0.3061
+Gen  17 | max=0.4183  mean=0.3763  median=0.3798  min=0.3144
+Gen  18 | max=0.4128  mean=0.3808  median=0.3852  min=0.3265
+Gen  19 | max=0.4115  mean=0.3765  median=0.3792  min=0.3256
+Gen  20 | max=0.4148  mean=0.3762  median=0.3809  min=0.3177
+Gen  21 | max=0.4127  mean=0.3798  median=0.3843  min=0.3122
+Gen  22 | max=0.4138  mean=0.3789  median=0.3854  min=0.3132
+Gen  23 | max=0.4145  mean=0.3818  median=0.3868  min=0.3116
+Gen  24 | max=0.4218  mean=0.3860  median=0.3901  min=0.3288
+Gen  25 | max=0.4352  mean=0.3861  median=0.3870  min=0.3211
+Gen  26 | max=0.4191  mean=0.3846  median=0.3849  min=0.3330
+Gen  27 | max=0.4147  mean=0.3818  median=0.3817  min=0.3399
+Gen  28 | max=0.4188  mean=0.3839  median=0.3848  min=0.3331
+Gen  29 | max=0.4231  mean=0.3821  median=0.3833  min=0.3381
+Gen  30 | max=0.4200  mean=0.3822  median=0.3826  min=0.3401
+Gen  31 | max=0.4198  mean=0.3841  median=0.3852  min=0.3364
+Gen  32 | max=0.4215  mean=0.3829  median=0.3841  min=0.3292
+Gen  33 | max=0.4188  mean=0.3853  median=0.3871  min=0.3274
+Gen  34 | max=0.4199  mean=0.3846  median=0.3876  min=0.3462
+Gen  35 | max=0.4230  mean=0.3861  median=0.3879  min=0.3399
+Gen  36 | max=0.4152  mean=0.3806  median=0.3827  min=0.3362
+Gen  37 | max=0.4157  mean=0.3794  median=0.3823  min=0.3264
+Gen  38 | max=0.4140  mean=0.3763  median=0.3792  min=0.3268
+Gen  39 | max=0.4205  mean=0.3751  median=0.3761  min=0.3214
+Gen  40 | max=0.4123  mean=0.3761  median=0.3815  min=0.3176
+Gen  41 | max=0.4129  mean=0.3744  median=0.3775  min=0.3100
+Gen  42 | max=0.4154  mean=0.3728  median=0.3740  min=0.3188
+Gen  43 | max=0.4187  mean=0.3778  median=0.3790  min=0.3228
+Gen  44 | max=0.4278  mean=0.3800  median=0.3808  min=0.3220
+Gen  45 | max=0.4147  mean=0.3722  median=0.3726  min=0.3274
+Gen  46 | max=0.4227  mean=0.3690  median=0.3695  min=0.3153
+Gen  47 | max=0.4284  mean=0.3673  median=0.3689  min=0.3046
+Gen  48 | max=0.4187  mean=0.3703  median=0.3700  min=0.2996
+Gen  49 | max=0.4228  mean=0.3675  median=0.3669  min=0.3140
+Saved fitness.png
+Saved strategy.png
+
+Done. Outputs: fitness.png, strategy.png
